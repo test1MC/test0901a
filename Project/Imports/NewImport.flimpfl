@@ -1,20 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProjectImport AutoSync="true" LastImport="2020-08-28T17:22:04.0793172-07:00" DeleteStale="true">
-    <Files>
-        <Url Source="../../../ProjectB/ProjectB.flprj" AbsoluteSource="file:///C:/Users/rallahwerdy/Documents/My Projects/ProjectB/ProjectB.flprj" />
-    </Files>
-    <ExcludedFiles />
-    <CollectedSourceFiles>
-        <Url Source="../../../ProjectB/Content/Home.htm" AbsoluteSource="file:///C:/Users/rallahwerdy/Documents/My Projects/ProjectB/Content/Home.htm" />
-        <Url Source="../../../ProjectB/Content/Release-Notes.htm" AbsoluteSource="file:///C:/Users/rallahwerdy/Documents/My Projects/ProjectB/Content/Release-Notes.htm" />
-        <Url Source="../../../ProjectB/Content/System-Requirements.htm" AbsoluteSource="file:///C:/Users/rallahwerdy/Documents/My Projects/ProjectB/Content/System-Requirements.htm" />
-        <Url Source="../../../ProjectB/Content/Article.htm" AbsoluteSource="file:///C:/Users/rallahwerdy/Documents/My Projects/ProjectB/Content/Article.htm" />
-    </CollectedSourceFiles>
-    <SkippedSourceFiles />
-    <GeneratedFiles>
-        <Url Source="../../Content/Home.htm" TimeStamp="6/15/2020 7:14:32 PM" />
-        <Url Source="../../Content/Release-Notes.htm" TimeStamp="6/15/2020 7:14:32 PM" />
-        <Url Source="../../Content/System-Requirements.htm" TimeStamp="6/15/2020 7:14:32 PM" />
-        <Url Source="../../Content/Article.htm" TimeStamp="6/15/2020 7:14:32 PM" />
-    </GeneratedFiles>
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2020-09-01T20:49:28.3710992-07:00"
+  DeleteStale="true">
+  <Files>
+    <Url
+      Source="../../../ProjectB/ProjectB.flprj"
+      AbsoluteSource="../../../ProjectB/ProjectB.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../ProjectB/Content/Home.htm"
+      AbsoluteSource="file:///C:/Bug Projects/146724/a/bug/ProjectB/Content/Home.htm" />
+    <Url
+      Source="../../../ProjectB/Content/Release-Notes.htm"
+      AbsoluteSource="file:///C:/Bug Projects/146724/a/bug/ProjectB/Content/Release-Notes.htm" />
+    <Url
+      Source="../../../ProjectB/Content/System-Requirements.htm"
+      AbsoluteSource="file:///C:/Bug Projects/146724/a/bug/ProjectB/Content/System-Requirements.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+    <Url
+      Source="../../Content/Release-Notes.htm"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+    <Url
+      Source="../../Content/System-Requirements.htm"
+      TimeStamp="6/15/2020 7:14:32 PM" />
+  </GeneratedFiles>
 </CatapultProjectImport>
