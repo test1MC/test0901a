@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultProjectImport
   AutoSync="true"
-  LastImport="2020-09-01T20:49:28.3710992-07:00"
+  LastImport="2020-09-01T20:52:17.9337133-07:00"
   DeleteStale="true">
   <Files>
     <Url
@@ -16,9 +16,6 @@
     <Url
       Source="../../../ProjectB/Content/Release-Notes.htm"
       AbsoluteSource="file:///C:/Bug Projects/146724/a/bug/ProjectB/Content/Release-Notes.htm" />
-    <Url
-      Source="../../../ProjectB/Content/System-Requirements.htm"
-      AbsoluteSource="file:///C:/Bug Projects/146724/a/bug/ProjectB/Content/System-Requirements.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles />
   <GeneratedFiles>
@@ -27,9 +24,6 @@
       TimeStamp="6/15/2020 7:14:32 PM" />
     <Url
       Source="../../Content/Release-Notes.htm"
-      TimeStamp="6/15/2020 7:14:32 PM" />
-    <Url
-      Source="../../Content/System-Requirements.htm"
       TimeStamp="6/15/2020 7:14:32 PM" />
   </GeneratedFiles>
 </CatapultProjectImport>
